@@ -1,0 +1,20 @@
+
+
+main{
+  max-width: 700px;
+  margin: 60px auto;
+  padding: 32px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+h1{
+  font-weight: bold;
+  font-size: 25px;
+  color: rgb(255, 145, 11);
+}
+
+p{
+  font-size: 18px;
+  color: #333;
+}
